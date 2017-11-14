@@ -12,10 +12,10 @@ tags:
 #프로그래머스 <b style="font-size:20px">https://programmers.co.kr</b><br><b style="font-size:20px; color:#71717991;">Code_Challenge </b><br><b>Level1 약수의 합</b>
 ---
 [TOC]
-####==문제==
+####문제
 ![](http://MasterHun.github.io/img/all_sum_l1.jpg)
 
-~~~python
+~~~
 약수의 합
 	- 어떤 수를 입력받는다.
 	- 어떤 수의 약수를 모두 더한 수를 리턴하는 함수를 만들어라.
