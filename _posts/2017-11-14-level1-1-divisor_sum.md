@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Level1 약수의합
-catagories: 
+categories:
    - Python
 tags:
    - python
