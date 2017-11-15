@@ -9,7 +9,7 @@ tags:
    - 알고리즘
    - 파이썬
 ---
-<b style="font-size:20px" url="https://programmers.co.kr>프로그래머스(programmers)</b><br>
+<b style="font-size:20px" url="https://programmers.co.kr">프로그래머스(programmers)</b><br>
 <b style="font-size:20px; color:#71717991;">Code Challenge </b><br>
 <b>Level1 약수의 합</b>
 
