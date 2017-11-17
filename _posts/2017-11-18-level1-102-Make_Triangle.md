@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Level1 약수의합
+title: Level1 삼각형 출력하기
 categories:
    - Python
 tags:
